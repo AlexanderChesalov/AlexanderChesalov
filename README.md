@@ -28,6 +28,6 @@ In 2022, he was elected as a member of the Expert Council under the State Duma C
 
 In 2023, he was elected Full Member of the Russian Academy of Natural Sciences (Academician of the Russian Academy of Natural Sciences). Published a research work (monograph) on the topic «Methodology for constructing distributed networks for transmission, processing and storage of data» in two volumes.
 
-Image Author of more than fifteen books on information technology, including: «My Digital Reality»; «Digital transformation»; «Digital ecosystem of the Ombudsman Institute: concept, technology, practice»; «How to create an Artificial Intelligence center in 100 days» and many others.
+Author of more than fifteen books on information technology, including: «My Digital Reality»; «Digital transformation»; «Digital ecosystem of the Ombudsman Institute: concept, technology, practice»; «How to create an Artificial Intelligence center in 100 days» and many others.
 
-Alexander Yuryevich conducts free seminars on popularizing the science and technology of the fourth industrial revolution, and also maintains his blog chesalov.com.
+Alexander Yuryevich conducts free seminars on popularizing the science and technology of the fourth industrial revolution, and also maintains his blog www.chesalov.com.
